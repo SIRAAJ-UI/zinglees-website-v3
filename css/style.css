@@ -748,8 +748,8 @@ a:focus, a:hover {
 }
 .slider-item h1 {
   color: #fff;
-  font-size: 60px;
-  line-height: 70px;
+  font-size: 48px;
+  line-height: 48px;
   letter-spacing: 2px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -770,6 +770,7 @@ a:focus, a:hover {
 .slider-item p {
   color: #fff;
   margin-bottom: 20px;
+  font-size: 30px;
 }
 
 .hero-slider {
